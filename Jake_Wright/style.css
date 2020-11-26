@@ -1,15 +1,11 @@
 body {
   background-color: #eee;
-  font-family: 'Source Sans Pro', sans-serif;
-  width: 1200px;
-
+  font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
 #container {
   background-color: white;
   width: 1200px;
-  
-
   margin-left: auto;
   margin-right: auto;
 }
@@ -31,8 +27,6 @@ h1, h2, h3 {
 
 #content{
   padding-top: 10px;
-  height: auto;
-
 }
 
 #nav {
@@ -61,8 +55,4 @@ h1, h2, h3 {
   background-color: #999999;
   color:white;
   text-align: right;
-}
-
-#picture {
-  padding : 30px
 }
